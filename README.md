@@ -7,7 +7,9 @@ Generate rainbow colors with Swift.
 There is only one function to generate the color:
 通过一个函数来实现：
 
-- func rainbowColor(x :Float) -> UIColor
+{
+func rainbowColor(x: Float) -> UIColor
+}
 
 parmeter range: 
 参数取值范围：
@@ -18,6 +20,7 @@ x : 0 ~ 256 * 5 - 1
 Exsample of creating all rainbow colors:
 生成所有彩虹色的例子：
 
+{
 class ViewController: UIViewController {
                             
     override func viewDidLoad() {
@@ -43,4 +46,5 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+}
 }
