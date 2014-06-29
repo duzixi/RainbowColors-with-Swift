@@ -11,7 +11,7 @@ There is only one function to generate the color:
 - func rainbowColor(x: Float) -> UIColor
 
 
-parmeter range: 
+parameter range: 
 参数取值范围：
 
 x : 0 ~ 256 * 5 - 1
