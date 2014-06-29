@@ -2,7 +2,7 @@ Rainbow Colors with Swift
 -------------------------
 
 Generate rainbow colors with Swift.
-用Swift语言生成🌈彩虹色。
+用Swift语言生成���彩虹色。
 
 There is only one function to generate the color:
 通过一个函数来实现：
@@ -46,6 +46,9 @@ Exsample of creating all rainbow colors:
             // Dispose of any resources that can be recreated.
         }
     }
+
+![image](http://img.my.csdn.net/uploads/201406/29/1404007733_4353.png)
+
 
 License
 -------
